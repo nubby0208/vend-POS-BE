@@ -1,0 +1,36 @@
+{
+  "name": "todolist-react-mysql",
+  "version": "1.0.0",
+  "description": "Todo List in ReactJs with Nodejs, JWT, Mysql",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Praveen Mistry"
+  },
+  "keywords": [
+    "NodeJs",
+    "ReactJs",
+    "MYSQL",
+    "JWT"
+  ],
+  "author": "Praveen",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.4.0",
+    "formidable": "^2.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.17.1",
+    "mysql2": "^2.0.0",
+    "sequelize": "^5.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
